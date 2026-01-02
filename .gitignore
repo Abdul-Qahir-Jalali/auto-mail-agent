@@ -1,0 +1,22 @@
+# Secrets (Never upload these!)
+.env
+token.json
+token_debug.json
+credentials.json
+token_python.json
+
+# Virtual Environment (Too big, not needed)
+auto_mail/
+venv/
+env/
+
+# Python Cache (Temporary files)
+__pycache__/
+*.pyc
+
+# Logs
+*.log
+
+# System files
+.DS_Store
+Thumbs.db
