@@ -97,4 +97,4 @@ The agent will:
 *   **Safety**: This agent sends REAL emails. Test it with a secondary account first!
 
 ---
-*Created with ❤️ by the Google Deepmind Team.*
+
